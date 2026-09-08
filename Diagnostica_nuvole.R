@@ -6,7 +6,7 @@ library(rlas)
 # --------------------------------------------------
 # INPUT UTENTE: Inserire il percorso della cartella
 # --------------------------------------------------
-cartella_nuvole <- "E:/Università/Tesi magistrale/Elaborazioni R/Directory"
+cartella_nuvole <- "C:/inserisci/qui/percorso/cartella/nuvole/analizzare.."
 
 # Rilevamento automatico di tutti i file .las (o .laz) presenti nella cartella
 file_paths <- list.files(
