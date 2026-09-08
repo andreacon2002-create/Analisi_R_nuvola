@@ -1,9 +1,7 @@
 # Installazione e caricamento librerie
 if (!require("rlas")) install.packages("rlas")
-if (!require("rgl")) install.packages("rgl")
 
 library(rlas)
-library(rgl)
 
 # --------------------------------------------------
 # INPUT UTENTE: Inserire il percorso della cartella
