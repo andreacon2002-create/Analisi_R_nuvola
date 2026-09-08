@@ -21,6 +21,6 @@ L'algoritmo implementa una pipeline automatizzata in R per la diagnostica e l'es
 - Aggregazione e Sintesi Globale: I risultati delle tessere vengono assemblati per singolo file e aggregati in indicatori statistici descrittivi (media, min, max, deviazione standard, range e varianza), salvati in un report globale in formato .csv.
 
 ## ⚙️ Istruzioni per l'uso
-1. lo script lavora all'interno della cartella dove viene salvato, per cui le nuvole che di cui si vuole fare la diagnosi devono essere portante anch'esse all'interno della stessa.
+1. lo script lavora all'interno di una cartella dove vengono poste tutte le nuvole da analizzare (attraverso il percorso della cartella), per cui le nuvole che di cui si vuole fare la diagnosi devono essere portante all'interno di essa.
 ---
 *Progetto sviluppato da Andrea Conforto.*
